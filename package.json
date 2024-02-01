@@ -1,0 +1,16 @@
+{
+  "name": "odin-basic-informational-site",
+  "version": "1.0.0",
+  "description": "Project: Basic Informational Site | NodeJS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
